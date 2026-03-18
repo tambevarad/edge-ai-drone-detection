@@ -7,11 +7,11 @@ This repository contains a preprint of our research on real-time infrared drone 
 This is a preprint version of a paper currently under review at AIRC 2026.  
 The final published version may differ after peer review.
 
-## 🚀 Contributions
+## Contributions
 - Infrared dataset annotation and ground-truthing (Roboflow)
 - Transformer-based object detection
 - Hyperparameter tuning and optimization
 - Deployment on NVIDIA Jetson for real-time edge inference
 
-## ⚠️ Disclaimer
+## Disclaimer
 This repository contains unpublished research work. Please do not cite without permission.
